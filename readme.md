@@ -17,3 +17,5 @@ The table below displays the model ranking based on key evaluation metrics:
 | 4.0  | electra-base              | 0.86     | 0.89     | 0.87      | 0.88   |
 | 5.0  | bert-base-uncased         | 0.85     | 0.89     | 0.88      | 0.87   |
 | 6.0  | gpt2                      | 0.82     | 0.87     | 0.85      | 0.84   |
+
+This Project is Made by Shrey Pachauri (102103354)
